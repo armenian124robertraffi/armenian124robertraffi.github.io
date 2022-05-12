@@ -498,6 +498,16 @@ img {
     cursor: pointer;
 }
 
+.trump2 {
+    width: 500px;
+    height: 400px;
+    border-radius: 0%;
+    /* margin-left: 60px; */
+    /* margin-right: 60px; */
+    margin-top: 15px;
+    cursor: pointer;
+}
+
 .result {
     display: flex;
     padding-top: 220px;
